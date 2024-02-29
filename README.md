@@ -5,7 +5,7 @@ Welcome to the Blackjack Game! This is a simple text-based game written in Pytho
 ## How to Play
 1. Run the `blackjack.py` file using a Python interpreter.
 2. The game will deal two cards to both the player and the computer.
-3. The player can choose to "hit" (get another card) or "stand" (keep their current hand).
+3. The player can choose to "y" (get another card) or "n" (keep their current hand).
 4. The goal is to get as close to 21 as possible without going over.
 5. Aces are worth 1 or 11, face cards (Jack, Queen, King) are worth 10, and all other cards are worth their face value.
 6. If the player goes over 21, they bust and lose the game.
