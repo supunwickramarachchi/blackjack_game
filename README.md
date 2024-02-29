@@ -19,6 +19,6 @@ Welcome to the Blackjack Game! This is a simple text-based game written in Pytho
 - Game keeps track of the score and determines the winner.
 
 ## Author
-- [Your Name](https://github.com/your_username)
+- [Supun Wickramarachchi](https://github.com/supunwickramarachchi)
 
 Feel free to customize this game, add more features, or improve the interface. Have fun playing Blackjack!
